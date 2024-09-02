@@ -135,10 +135,10 @@ span{
 }
 
 .home-img img{
-    position: static;
+    position: linear;
     width: 8vw;
     border-radius: 25%;
-    box-shadow: 0 0 15px solid #b74b4b;
+    box-shadow: 0 0 5px solid #b74b4b;
     cursor: pointer;
     transition: 0.2s linear;
 }
