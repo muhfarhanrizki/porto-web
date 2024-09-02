@@ -131,21 +131,21 @@ span{
 }
 
 .home-img{
-    border-radius: 50%;
+    border-radius: 25%;
 }
 
 .home-img img{
-    position: relative;
+    position: static;
     width: 16vw;
-    border-radius: 50%;
-    box-shadow: 0 0 25px solid #b74b4b;
+    border-radius: 25%;
+    box-shadow: 0 0 15px solid #b74b4b;
     cursor: pointer;
     transition: 0.2s linear;
 }
 
 .home-img img:hover{
     font-size: 1.8rem;
-    font-weight: 500;
+    font-weight: 250;
 }
 
 .social-icons a{
