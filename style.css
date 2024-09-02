@@ -131,12 +131,12 @@ span{
 }
 
 .home-img{
-    border-radius: 25%;
+    border-radius: 50%;
 }
 
 .home-img img{
     position: static;
-    width: 16vw;
+    width: 64vw;
     border-radius: 25%;
     box-shadow: 0 0 15px solid #b74b4b;
     cursor: pointer;
