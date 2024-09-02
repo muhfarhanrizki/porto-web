@@ -136,7 +136,7 @@ span{
 
 .home-img img{
     position: relative;
-    width: 32vw;
+    width: 16vw;
     border-radius: 50%;
     box-shadow: 0 0 25px solid #b74b4b;
     cursor: pointer;
@@ -234,7 +234,7 @@ span{
 
 }
 
-@media (max-width: 500px){
+@media (max-width: 1000px){
     .home{
         gap: 4rem;
     }
