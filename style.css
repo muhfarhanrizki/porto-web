@@ -132,15 +132,21 @@ span{
 
 .home-img{
     border-radius: 50%;
+    position: dinamic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
 }
 
 .home-img img{
-    position: linear;
-    width: 8vw;
-    border-radius: 25%;
-    box-shadow: 0 0 5px solid #b74b4b;
-    cursor: pointer;
-    transition: 0.2s linear;
+    width: 1px;
+    height: 1px;
+    background-color: #3498db; /* You can choose any color */
+    border-radius: 50%;
+    
 }
 
 .home-img img:hover{
